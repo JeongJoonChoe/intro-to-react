@@ -4,27 +4,34 @@
 	<title>Assignment 1 components</title>
 </head>
 <body>
-	<p>Hello world!</p>
     <div id="app"></div>
  	<script src="https://cdnjs.cloudflare.com/ajax/libs/react/16.1.0/umd/react.development.js"></script>
  	<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.1.0/umd/react-dom.development.js"></script>
  	<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.34/browser.min.js"></script>
  	<script type="text/babel">
- 		function List(props) {
-			return <h1> We have {props.food}</h1>;
- 		}
+ 		class Menu extends React.Component {
+ 			constructor(props) {
+				super(props);
+				this.state = {
+					pageNumber: 1
+				}
+ 			}
 
- 		function Menu() {
- 			return (
- 				<div>
- 					<List food="pasta" />
- 					<List food="hamburger" />
- 					<List food="pizza" />
- 				</div>
- 			);
+ 			render(){
+ 				return (
+ 					<div>
+ 						<h1> Menu {this.props.title} </h1>
+ 						<ul>
+ 							<li>baked cookie dough</li>
+ 							<li>cheesecake</li>
+ 						</ul>
+ 						<p>{this.state.pageNumber}</p>
+ 					</div>
+				)	
+ 			}
  		}
  		ReactDOM.render(
- 			<Menu />,
+ 			<Menu title="Desserts" />,
  			document.getElementById('app')
  		);
  	</script>
