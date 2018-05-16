@@ -1,0 +1,426 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"reset",
+				"resetLocationInfo"
+			],
+			[
+				"displa",
+				"displayVideo"
+			],
+			[
+				"video",
+				"video_url"
+			],
+			[
+				"vide",
+				"videoPlayer"
+			],
+			[
+				"inlin",
+				"inline-flex"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"conten",
+				"align-content"
+			],
+			[
+				"overflow",
+				"overflow-x"
+			],
+			[
+				"info",
+				"location_info"
+			],
+			[
+				"update",
+				"updateLocationInfo"
+			],
+			[
+				"add",
+				"addLocationName"
+			],
+			[
+				"upda",
+				"updateLocationInfo"
+			],
+			[
+				"LOca",
+				"LOCATION_INFO"
+			],
+			[
+				"Loc",
+				"LOCATION_INFO"
+			],
+			[
+				"Clie",
+				"CLIENT_ID"
+			],
+			[
+				"ven",
+				"venueInfo"
+			],
+			[
+				"LOCA",
+				"LOCATION_INFO"
+			],
+			[
+				"Lo",
+				"LOCATION_INFO"
+			],
+			[
+				"CLIEN",
+				"CLIENT_SECRET"
+			],
+			[
+				"render",
+				"renderFrontPage"
+			],
+			[
+				"ques",
+				"questionCount"
+			],
+			[
+				"get",
+				"getResult"
+			],
+			[
+				"hand",
+				"handleAnswerQuestion"
+			],
+			[
+				"resut",
+				"resultTemplate"
+			],
+			[
+				"js-",
+				"js-correct-count"
+			],
+			[
+				"q",
+				"questionCount"
+			],
+			[
+				"delete",
+				"deleteItem"
+			],
+			[
+				"shopping",
+				"shopping-item-delete"
+			],
+			[
+				"shoppingList",
+				"shoppingListHTML"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"list",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 229.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git:clone",
+				"Github: Copy Link To File"
+			],
+			[
+				"git: fetch",
+				"Git: Fetch"
+			],
+			[
+				"git ",
+				"Git: Pull"
+			],
+			[
+				"git init",
+				"Github: Copy Link To File"
+			],
+			[
+				"git",
+				"Github: Copy Link To File"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: New Build System"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: inst",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 591.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+			"var was = [1,2,3,4,5];",
+			"var w = [1,2,3,4,5];",
+			"var a = [1,2,3,4,5];",
+			"cd !$",
+			"touch"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Peter Choe/bloc/intro-to-react/react-to-do/src/index.js",
+		"/C/Users/Peter Choe/bloc/intro-to-react/react-to-do/src/App.test.js",
+		"/C/Users/Peter Choe/bloc/react-counter/assignment-events.txt",
+		"/C/Users/Peter Choe/Desktop/Bloc/frontend_and_programming_fundamentals/accessibility_practice.html",
+		"/C/Users/Peter Choe/Desktop/Bloc/frontend_and_programming_fundamentals/main.css",
+		"/C/Users/Peter Choe/Desktop/Bloc/frontend_and_programming_fundamentals/code practice.html",
+		"/C/Users/Peter Choe/Desktop/Comp_sci/program1/google.py",
+		"/C/Users/Peter Choe/Desktop/Comp_sci/program1/fa.py",
+		"/C/Users/Peter Choe/Desktop/Comp_sci/program1/googleq0.txt",
+		"/C/Users/Peter Choe/Desktop/projects/adventure_time/main.js",
+		"/C/Users/Peter Choe/Desktop/review/review",
+		"/C/Users/Peter Choe/Desktop/projects/adventure_time/index.html",
+		"/C/Users/Peter Choe/Desktop/projects/adventure_time/main.css",
+		"/C/Users/Peter Choe/Desktop/projects/adventure_time/README.md",
+		"/C/Users/Peter Choe/Desktop/projects/quiz-app/app.js",
+		"/C/Users/Peter Choe/Desktop/projects/using_api/index.html",
+		"/C/Users/Peter Choe/Desktop/projects/using_api/app.js",
+		"/C/Users/Peter Choe/Desktop/projects/using_api/index.css",
+		"/C/Users/Peter Choe/Desktop/projects/quiz-app/main.css",
+		"/C/Users/Peter Choe/Desktop/projects/quiz-app/index.html",
+		"/C/Users/Peter Choe/Desktop/projects/scratch/scratch.html",
+		"/C/Users/Peter Choe/Desktop/projects/shopping-list/index.html",
+		"/C/Users/Peter Choe/Desktop/projects/shopping-list/README.md",
+		"/C/Users/Peter Choe/Desktop/projects/shopping-list/main.css",
+		"/C/Users/Peter Choe/Desktop/projects/shopping-list/app.js",
+		"/C/Users/Peter Choe/Desktop/projects/separated-shopping-list/index.js",
+		"/C/Users/Peter Choe/Desktop/projects/separated-shopping-list/index.html",
+		"/C/Users/Peter Choe/Desktop/projects/separated-shopping-list/render-functions.js",
+		"/C/Users/Peter Choe/Desktop/projects/separated-shopping-list/event-listeners.js",
+		"/C/Users/Peter Choe/Desktop/projects/separated-shopping-list/functions.js",
+		"/C/Users/Peter Choe/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-build",
+		"/C/Users/Peter Choe/Desktop/projects/text-analyzer-starter-files/app.js",
+		"/C/Users/Peter Choe/Desktop/projects/text-analyzer-starter-files/main.css",
+		"/C/Users/Peter Choe/Desktop/projects/text-analyzer-starter-files/index.html",
+		"/C/Users/Peter Choe/Desktop/projects/main.css",
+		"/C/Users/Peter Choe/Desktop/projects/index.html",
+		"/C/Users/Peter Choe/Desktop/projects/app.js",
+		"/C/Users/Peter Choe/Desktop/projects/practice/README.md",
+		"/C/Users/Peter Choe/Desktop/projects/aboutme/index.html",
+		"/C/Users/Peter Choe/Desktop/projects/first_push/README.md",
+		"/C/Users/Peter Choe/Desktop/projects/first_push/READ.md",
+		"/C/Users/Peter Choe/Desktop/projects/scratch.py",
+		"/C/Users/Peter Choe/Desktop/projects/scratch/scratch.js",
+		"/C/Users/Peter Choe/Desktop/projects/scratch/index.html",
+		"/C/Users/Peter Choe/Desktop/projects/hello-world-js/app.js",
+		"/C/Users/Peter Choe/Desktop/projects/hello-world-js/index.html",
+		"/C/Users/Peter Choe/Desktop/projects/responsive_layout/index.html",
+		"/C/Users/Peter Choe/Desktop/projects/responsive_layout/main.css",
+		"/C/Users/Peter Choe/Desktop/projects/responsive_layout/float-grid.css",
+		"/C/Users/Peter Choe/Desktop/projects/gregs_list/index.css",
+		"/C/Users/Peter Choe/Desktop/projects/gregs_list/index.html",
+		"/C/Users/Peter Choe/Desktop/projects/display_property/main.css",
+		"/C/Users/Peter Choe/Desktop/projects/display_property/index.html",
+		"/C/Users/Peter Choe/Desktop/projects/sallyAboutMe/main.css",
+		"/C/Users/Peter Choe/Desktop/projects/sallyAboutMe/index.html",
+		"/C/Users/Peter Choe/Desktop/projects/aboutme/main.css",
+		"/C/Users/Peter Choe/Desktop/Thinkful/foo.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/JavaScript.sublime-build",
+	"project": "ToDo.sublime-project",
+	"replace":
+	{
+		"height": 75.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
